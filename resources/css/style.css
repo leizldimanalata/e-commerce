@@ -1,0 +1,8 @@
+* {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+}
+
+[x-cloak] {
+    display: none !important;
+}
